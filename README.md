@@ -1,6 +1,6 @@
 # osm_grafana
-
-# Role Name
+ 
+# Role Name : osm_grafana
 
 This role consists of all dependencies and tasks required to setup Grafana
 
